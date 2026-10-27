@@ -8,6 +8,12 @@
 }
 
 /* Text*/
+.header {
+  font-family: "liquida", sans-serif;
+font-weight: 200;
+font-style: normal;
+font-size: 32px;
+}
 body {
   text-align: center;
 .p1 {
@@ -186,6 +192,6 @@ ul li a:hover {
 }
 
 /* Button */
-button {
+/* button {
   margin-top: 50px;
-}
+} */
