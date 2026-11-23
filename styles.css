@@ -16,10 +16,13 @@ font-size: 32px;
 }
 body {
   text-align: center;
+  font-size: 16px;
 .p1 {
   font-family: "Times New Roman", Times, serif;
+  font-size: 16px;
 }
 .p2{font-family:'Times New Roman', Times, serif;}
+font-size: 16;
 }
 
 
